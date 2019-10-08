@@ -5,6 +5,7 @@ public class ArrayIndex
 
 	public static void main(String[] args) 
 	{
+// Why not use an arraylist?
 		 // declares an Array of int. 
 	      int[] given_array; 
 	          
